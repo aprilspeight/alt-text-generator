@@ -16,7 +16,7 @@ Need to generate alt-text for a bulk set of images? This sample provides a basic
 1. Open a terminal in the project directory.
 1. Run `pip install -r requirements.txt` to install dependencies.
 1. Run the script by providing the path to the folder with your images:
-`python alt-text-v2.py ./images`
+`python bulk-generator.py ./images`
 (You can replace ./images with any folder path you want.)
 
 ## 📦 Resources
