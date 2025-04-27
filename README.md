@@ -4,7 +4,7 @@
 
 Need to generate alt-text for a bulk set of images? This sample provides a basic alt-text generator that iterates over images in a specified folder, converts each image to base64 data URL, generates alt-text for each converted image, and then organizes everything into a markdown file - providing both the file name and alt-text!
 
-*Note: If you only need to generate alt-text for a single image, check out the [TBD] generator.*
+*Note: If you only need to generate alt-text for a single image, check out the [Single Generator](https://github.com/aprilspeight/alt-text-generator/blob/main/single-generator.py).*
 
 ## ✅ Requirements
 
